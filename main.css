@@ -551,7 +551,7 @@ body {
           filter: brightness(100);
   transform: scale(1.2) translateY(1rem) rotateY(180deg);
 }
-@media only screen and (max-width: 56.25em) {
+@media only screen and (max-width: 75em) {
   .logo-container {
     transform: translateX(-4rem);
   }
