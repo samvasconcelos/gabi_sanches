@@ -153,6 +153,7 @@ body {
   position: relative;
   font-family: "Beau Rivage", cursive;
   font-size: 10rem;
+  font-weight: 400;
   text-shadow: 0 0 1.5rem rgba(255, 255, 255, 0.5843137255);
 }
 @media only screen and (max-width: 56.25em) {
